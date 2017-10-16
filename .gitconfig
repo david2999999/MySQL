@@ -1,0 +1,13 @@
+[user]
+    name = David Jiang
+    email = djiang86@binghamton.edu
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current
