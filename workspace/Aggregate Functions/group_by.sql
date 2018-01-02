@@ -2,6 +2,7 @@ SELECT title, author_lname FROM books;
  
 SELECT title, author_lname FROM books
 GROUP BY author_lname
+
 SELECT author_lname, COUNT(*) 
 FROM books GROUP BY author_lname;
  
